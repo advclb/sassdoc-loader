@@ -1,0 +1,30 @@
+{
+  "name": "@advclb/foobar",
+  "version": "0.0.0",
+  "description": "Foobar library",
+  "main": "lib/index.js",
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint --fix --ext .js lib/",
+    "format": "prettier --write lib/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advclb/foobar.git"
+  },
+  "author": "First Last <first.last@example.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/advclb/foobar/issues"
+  },
+  "homepage": "https://github.com/advclb/foobar#readme",
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-advclb": "latest",
+    "jest": "latest",
+    "prettier": "latest"
+  }
+}
