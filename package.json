@@ -25,6 +25,11 @@
     "eslint": "latest",
     "eslint-config-advclb": "latest",
     "jest": "latest",
-    "prettier": "latest"
+    "memfs": "latest",
+    "prettier": "latest",
+    "webpack": "latest"
+  },
+  "dependencies": {
+    "sassdoc": "^2.7.1"
   }
 }

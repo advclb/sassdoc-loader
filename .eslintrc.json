@@ -1,5 +1,6 @@
 {
-  "extends": [
-    "advclb"
-  ]
+  "extends": ["advclb"],
+  "parserOptions": {
+    "ecmaVersion": 8
+  }
 }
