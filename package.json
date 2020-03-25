@@ -29,7 +29,6 @@
     "eslint": "latest",
     "eslint-config-advclb": "latest",
     "jest": "latest",
-    "memfs": "latest",
     "prettier": "latest",
     "webpack": "latest"
   },
