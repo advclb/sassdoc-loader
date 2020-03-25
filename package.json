@@ -1,7 +1,7 @@
 {
-  "name": "@advclb/foobar",
+  "name": "@advclb/sassdoc-loader",
   "version": "0.0.0",
-  "description": "Foobar library",
+  "description": "the only up-to-date sassdoc loader for webpack",
   "main": "lib/index.js",
   "files": [
     "lib/*"
@@ -13,14 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/advclb/foobar.git"
+    "url": "git+https://github.com/advclb/sassdoc-loader.git"
   },
-  "author": "First Last <first.last@example.com>",
+  "author": {
+    "name": "Guo Yunhe",
+    "email": "i@guoyunhe.me",
+    "url": "https://guoyunhe.me/"
+  },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/advclb/foobar/issues"
+    "url": "https://github.com/advclb/sassdoc-loader/issues"
   },
-  "homepage": "https://github.com/advclb/foobar#readme",
+  "homepage": "https://github.com/advclb/sassdoc-loader#readme",
   "devDependencies": {
     "eslint": "latest",
     "eslint-config-advclb": "latest",
@@ -30,6 +34,7 @@
     "webpack": "latest"
   },
   "dependencies": {
+    "loader-utils": "^2.0.0",
     "sassdoc": "^2.7.1"
   }
 }

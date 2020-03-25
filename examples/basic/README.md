@@ -1,5 +1,0 @@
-# Basic Example
-
-```
-npm start
-```

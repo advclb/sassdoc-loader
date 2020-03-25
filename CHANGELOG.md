@@ -20,31 +20,13 @@ section when releasing.
 
 ### Removed
 
-## [0.1.0] - 2019-10-21
+## [0.1.0] - 2020-03-25
 
 ### Added
 
-- Some new feature
+- Basic loader for single sass/scss file
+- Configuration options
+- Error handling
 
-### Changed
-
-- Some behavior
-- **BREAKING CHANGE**: means you need to increase major version
-
-### Deprecated
-
-- Something still support but not recommend
-
-### Fixed
-
-- Some bug
-
-### Removed
-
-- Something not wanted
-
-## [0.0.1] - 2019-10-20
-
-[unreleased]: https://github.com/advclb/foobar/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/advclb/foobar/compare/v0.0.1...v0.1.0
-[0.0.1]: https://github.com/advclb/foobar/releases/tag/v0.0.1
+[unreleased]: https://github.com/advclb/sassdoc-loader/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/advclb/sassdoc-loader/releases/tag/v0.1.0
