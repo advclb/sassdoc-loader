@@ -34,6 +34,6 @@
   },
   "dependencies": {
     "loader-utils": "^2.0.0",
-    "sassdoc": "^2.7.1"
+    "sassdoc": "^2.7.2"
   }
 }
